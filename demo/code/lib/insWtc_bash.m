@@ -30,8 +30,8 @@ function insWtc_bash(wtc_params, bash_params, datafiles)
 % OUTPUTS:
 %     wtc data files stored in a BIDS-like structure folder:
 %         savedir
-%           - <dyad> (e.g. 'dyad-01')
-%                - <lag> (e.g. '2')
+%Â Â          - <dyad> (e.g. 'dyad-01')
+%Â Â   Â            - <lag> (e.g. '2')
 %                    - <filename>.mat (e.g. 'rest.mat')
 %
 % DEPENDENCY:
