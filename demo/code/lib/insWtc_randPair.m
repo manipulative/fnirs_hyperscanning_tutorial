@@ -35,8 +35,8 @@ function insWtc_randPair(wtc_params, RP_params, datafiles)
 % OUTPUTS:
 %     wtc data files stored in a BIDS-like structure folder:
 %         savedir
-%           - <dyad-ID1_ID2> (e.g. 'dyad-01_02')
-%                - <lag> (e.g. '2')
+%Â Â          - <dyad-ID1_ID2> (e.g. 'dyad-01_02')
+%Â Â   Â            - <lag> (e.g. '2')
 %                    - <filename>.mat (e.g. 'rest.mat')
 %
 % DEPENDENCY:
